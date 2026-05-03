@@ -8,7 +8,7 @@ Built for security researchers and bug bounty hunters.
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/abderrahimhb20/sijil.git
+git clone https://github.com/abderrahimhb20/sijil
 cd sijil
 chmod +x run.sh
 ./run.sh
