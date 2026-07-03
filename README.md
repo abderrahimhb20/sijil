@@ -68,7 +68,7 @@ pip3 install flask
 
 ```bash
 # ProjectDiscovery tools
-sudo apt install -y subfinder httpx-toolkit nuclei naabu katana dnsx
+sudo apt install -y subfinder nuclei naabu katana dnsx
 
 # Go tools
 go install github.com/tomnomnom/assetfinder@latest
@@ -80,7 +80,7 @@ go install github.com/lc/gau/v2/cmd/gau@latest
 go install github.com/hakluke/hakrawler@latest
 go install github.com/hahwul/dalfox/v2@latest
 go install github.com/s0md3v/uro@latest
-
+go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 # Wordlists
 sudo apt install -y seclists
 ```
