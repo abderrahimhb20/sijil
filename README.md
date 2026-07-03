@@ -81,6 +81,7 @@ go install github.com/hakluke/hakrawler@latest
 go install github.com/hahwul/dalfox/v2@latest
 go install github.com/s0md3v/uro@latest
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+go install github.com/projectdiscovery/katana/cmd/katana@latest
 # Wordlists
 sudo apt install -y seclists
 ```
